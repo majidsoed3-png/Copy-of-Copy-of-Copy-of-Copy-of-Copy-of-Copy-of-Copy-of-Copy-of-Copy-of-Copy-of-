@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of مكتب الوطن للخدمات الإلكترونية المساندة",
+  "description": "منصة مكتب الوطن لتسهيل كافة الخدمات الحكومية والخاصة المساندة، نخدمكم باحترافية ودقة تامة للمساهمة في التحول الرقمي بالمملكة العربية السعودية.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
